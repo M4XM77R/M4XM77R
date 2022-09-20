@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A german beginner Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m4xm77r&label=Profile%20views&color=0e75b6&style=flat" alt="m4xm77r" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m4xm77r" alt="m4xm77r" /></a> </p>
 
 - 🔭 I’m currently working on [calltaxi](https://github.com/M4XM77R/calltaxi)
