@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A german beginner Developer</h3>
+# 💫 About Me:
+I'm Max 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m4xm77r" alt="m4xm77r" /></a> </p>
 
-- 🔭 I’m currently working on [calltaxi](https://github.com/M4XM77R/calltaxi)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=M4XM77R&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=M4XM77R&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=M4XM77R&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me **m4xm77r@proton.me**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=M4XM77R&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.lua.org/docs.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"/> </a> </p>
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4xm77r&show_icons=true&locale=en&layout=compact" alt="m4xm77r" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m4xm77r&show_icons=true&locale=en" alt="m4xm77r" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m4xm77r&" alt="m4xm77r" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=M4XM77R&icon=0&color=0)](https://visitcount.itsvg.in)
